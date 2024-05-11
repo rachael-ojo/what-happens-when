@@ -37,7 +37,10 @@ and prioritize results based on search history, bookmarks, cookies, and
 popular searches from the internet as a whole. As you are typing
 "google.com" many blocks of code run and the suggestions will be refined
 with each keypress. It may even suggest "google.com" before you finish typing
-it.
+it. This is so because the operating system processes the input and maps it 
+to the corresponding character or action associated with the "g" key. This also 
+helps users save time by quickly selecting a suggested URL or search query 
+without typing the entire string manually.
 
 The "enter" key bottoms out
 ---------------------------
